@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+  vertical-align: middle;
+  line-height: 90vh;
+}
+
+#time {
+  color: #fff;
+  font-size: 10em;
+  font-weight: 100;
+}
